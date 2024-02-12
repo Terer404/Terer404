@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Security
 - 💞️ I’m looking to collaborate on Projects
-- 📫 Reach me through LinkedIn @ Daniel Afif Firzan
+- 📫 Reach me through LinkedIn @ Daniel Afif FirzanXXXXXXXXXX
 - ⚡ Fun fact: A professional once an amateur
 
 -  ███████████ ██████████ ███████████   ██████████ ███████████  
