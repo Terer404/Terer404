@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/terer_readme.jpg" alt="Daniel Afif Firzan - Isometric Profile Diorama" width="100%">
+  <img src="main/terer_readme.jpg" alt="Daniel Afif Firzan - Isometric Profile Diorama" width="100%">
 </div>
 
 <h1 align="center">Hello, World! I'm Daniel Afif Firzan 👋</h1>
