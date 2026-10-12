@@ -11,6 +11,15 @@
 
 <br/>
 
+<div align="center">
+  <blockquote>
+    <p><strong>🧠 Terer Philosophy:</strong><br>
+    <em>"What once took a century should be done in a decade. A decade's work should be solved in a year > a month > a week > a day > an hour > a minute > a second... until the problem is solved before we even have to think of it."</em></p>
+  </blockquote>
+</div>
+
+<br/>
+
 ### 🚀 The Mission: TrAIground
 👀 Nowadays, I’m solely focused on the build of **TrAIground**—a passion project I've been engineering for the past 1.5 years. 
 
